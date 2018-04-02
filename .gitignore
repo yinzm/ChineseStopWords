@@ -1,0 +1,10 @@
+# pycharm
+*/.idea/
+.idea
+
+# python
+*.pyc
+
+# cpp
+*.o
+*.exe
